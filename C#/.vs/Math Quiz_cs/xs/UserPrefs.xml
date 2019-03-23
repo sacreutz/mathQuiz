@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{75B10A22-409D-4745-A22A-FC6871E6D934}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Math Quiz/Form1.cs">
+    <Files>
+      <File FileName="Math Quiz/Program.cs" Line="1" Column="1" />
+      <File FileName="Math Quiz/Form1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Math_220Quiz__cs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
